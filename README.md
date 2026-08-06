@@ -1,7 +1,3 @@
-&lt;div align="center"&gt;
-
-&lt;img src="https://raw.githubusercontent.com/RidgeRookPattern/manga-downloader/main/assets/logo.png" width="120" alt="Best Manga Downloader Logo"&gt;
-
 # 🗯️ Best Manga Downloader
 
 **The fastest, most beautiful CLI & GUI manga downloader for Comick.io and beyond.**

